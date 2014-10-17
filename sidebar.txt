@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[njz:home|Door43 (njz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-njz|d43-njz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-njz/archive/master.zip|d43-njz.zip]]
+
+**Recent Changes**
+{{changes>ns = njz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/njz|Ethnologue data]]
+
