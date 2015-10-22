@@ -17,10 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/njz|Ethnologue data]]
 
-
 **Resources**
 
   * [[njz:obs|Open Bible Stories (njz)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:njz:obs:status}}
